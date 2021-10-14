@@ -6,19 +6,19 @@
 <a href="https://www.linkedin.com/in/aishwaryasharma06/"><img height="40" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-  # About Me
+  # 👧 About Me
   Hey there 👋,
   
   I'm Aishwarya. I create blogs where I share what I learn. You'll find me sitting in a corner with my nose in a book. I'm currently pursuing a Master's degree in Computer Science. Moved countries recently, talking about the cultural shocks might be a good conversation starter with me. Connect with me on either of the social media platforms.  
   
-  # My latest articles
+  # 📰 My latest articles
   
   - <a href="https://javascript.plainenglish.io/10-javascript-tricks-you-should-know-to-save-time-and-effort-813379390881"> 10 JavaScript Tricks You Should Know to Save Time and Effort <a>
   
   - <a href="https://levelup.gitconnected.com/spotify-codes-and-how-they-work-664f4e4b8489">Spotify Codes and How They Work</a>
   - <a href="https://iiaishwarya.medium.com/explained-prototypal-inheritance-in-javascript-9238d51d9230">Explained: Prototypal Inheritance in JavaScript</a>
   
-  # Books I've read and currently reading
+  # 📚 Books I've read and currently reading
   
   - **The Magic of Thinking Big** ~ David J. Schwartz
   - **Eat that Frog** ~ Brian Tracy
