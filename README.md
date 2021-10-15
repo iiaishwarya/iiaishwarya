@@ -29,7 +29,7 @@
   - **The Psychology of Money** *Next Read*
 
   # My Github stats
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=sourcerer52&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iiaishwarya)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 sourcerer52/sourcerer52 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
