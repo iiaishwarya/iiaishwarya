@@ -25,8 +25,9 @@
   - **What You Seek Is Seeking You** ~ Azim Jamal and Brian Tracy
   - **A Girl On The Train** ~ Paula Hawkins
   - **The Subltle Art Of Not Giving a F\*** ** ~ Mark Manson
-  - **Atomic Habits** - James Clear *[Currently Reading]*
-  - **The Psychology of Money** *Next Read*
+  - **Atomic Habits** - James Clear 
+  - **The Psychology of Money** ~ Morgan Housel *[Currently Reading]*
+  - **Shoe Dog** ~ Phil Knight *Next Read*
 
   # My Github stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=iiaishwarya)](https://github.com/anuraghazra/github-readme-stats)
