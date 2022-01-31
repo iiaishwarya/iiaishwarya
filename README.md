@@ -26,6 +26,7 @@
   - **A Girl On The Train** ~ Paula Hawkins
   - **The Subltle Art Of Not Giving a F\*** ** ~ Mark Manson
   - **Atomic Habits** - James Clear 
+  - **The Hitchhiker's Guide to the Galaxy** - Douglas Adams
   - **The Psychology of Money** ~ Morgan Housel *[Currently Reading]*
   - **Shoe Dog** ~ Phil Knight *Next Read*
 
